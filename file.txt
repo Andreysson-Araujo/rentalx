@@ -1,0 +1,2 @@
+a tabela de usuarios vai possui os seguintes campos
+id, name, username, password, email, driver_license, admin, created_at
